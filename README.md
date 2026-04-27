@@ -6,10 +6,10 @@ This GitHub profile highlights projects I’ve worked on through coursework, hac
 
 ## Project Table of Contents
 
-### 1. Return to Sender
+### 1. [Return to Sender](https://github.com/AashiLila/return-to-sender)
 An interactive narrative game built during SparkHacks using HTML, CSS, and JavaScript. The project features dynamic branching logic, multiple story outcomes, and UI assets designed in Figma and Photoshop.
 
-### 2. Medication Adherence Tracker
+### 2. [Medication Adherence Tracker](https://github.com/abdulaz06/medication-adherence-tracker)
 A full-stack application built to help users manage recurring medication schedules and track adherence history. This project uses FastAPI and PostgreSQL and helped me strengthen my backend development, API design, and data modeling skills.
 
 ### 3. Smart Doll House
