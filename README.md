@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shravani Bhase
 
-<!--
-**Shravanib1/Shravanib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Illinois Chicago with a minor in Mathematics. I'm interested in software engineering, full-stack development, and building practical applications that are both functional and easy to use.
 
-Here are some ideas to get you started:
+This GitHub profile highlights projects I’ve worked on through coursework, hackathons, and personal development. I enjoy learning new tools, improving my problem-solving skills, and building software that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Table of Contents
+
+### 1. Return to Sender
+An interactive narrative game built during SparkHacks using HTML, CSS, and JavaScript. The project features dynamic branching logic, multiple story outcomes, and UI assets designed in Figma and Photoshop.
+
+### 2. Medication Adherence Tracker
+A full-stack application built to help users manage recurring medication schedules and track adherence history. This project uses FastAPI and PostgreSQL and helped me strengthen my backend development, API design, and data modeling skills.
+
+### 3. Smart Doll House
+An Arduino-based embedded systems project that uses sensors, actuators, and microcontrollers to automate parts of a smart home environment. This project helped me gain hands-on experience with hardware integration and real-time logic.
+
+## Interests
+- Software Engineering
+- Full-Stack Development
+- Backend Development
+- User-Focused Applications
+- Problem Solving
+
+## Tools and Technologies
+- C, C++, Python, Java, JavaScript, SQL, Go, F#
+- HTML, CSS, REST APIs, FastAPI
+- Git, Figma, Arduino
+
+## Connect With Me
+- LinkedIn: [linkedin.com/in/shravanib1](https://www.linkedin.com/in/shravanib1)
+- Email: bhaseshravani2@gmail.com
